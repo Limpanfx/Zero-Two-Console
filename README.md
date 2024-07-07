@@ -1,6 +1,6 @@
 Made by Limpan or Limpan002s on discord
 
-Explenation: 
+Explanation: 
 Zero Two in color changing Ascii format inside the command prompt.
 
 How to use:
