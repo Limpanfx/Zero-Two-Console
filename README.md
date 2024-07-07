@@ -1,5 +1,4 @@
-Made by Limpan
-Limpan002s on discord
+Made by Limpan or Limpan002s on discord
 
 Explenation: 
 Zero Two in color changing Ascii format inside the command prompt.
