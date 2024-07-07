@@ -5,6 +5,8 @@ import sys
 import os
 import time
 
+cooldown = 1
+
 # Define a function to print text in color
 def print_red(text):
     print("\033[91m" + text + "\033[0m")
@@ -90,23 +92,23 @@ ZeroTwo = """
 if __name__ == "__main__":
     while True:
         print_red(ZeroTwo)
-        time.sleep(0.0001)
+        time.sleep(cooldown)
         os.system("cls" if os.name == "nt" else "clear")
         print_green(ZeroTwo)
-        time.sleep(0.0001)
+        time.sleep(cooldown)
         os.system("cls" if os.name == "nt" else "clear")
         print_yellow(ZeroTwo)
-        time.sleep(0.0001)
+        time.sleep(cooldown)
         os.system("cls" if os.name == "nt" else "clear")
         print_blue(ZeroTwo)
-        time.sleep(0.0001)
+        time.sleep(cooldown)
         os.system("cls" if os.name == "nt" else "clear")
         print_magenta(ZeroTwo)
-        time.sleep(0.0001)
+        time.sleep(cooldown)
         os.system("cls" if os.name == "nt" else "clear")
         print_cyan(ZeroTwo)
-        time.sleep(0.0001)
+        time.sleep(cooldown)
         os.system("cls" if os.name == "nt" else "clear")
         print_white(ZeroTwo)
-        time.sleep(0.0001)
+        time.sleep(cooldown)
         os.system("cls" if os.name == "nt" else "clear")
